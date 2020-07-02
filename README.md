@@ -1,2 +1,9 @@
-# C and C++ Examples
- Code blocks and examples programs i made in C or C++
+# My C and C++ Examples and Code Blocks
+Code blocks and example programs I made built with C or C++
+
+- Makefile
+- pointers
+- printArray
+- bytes
+- random
+- structs
